@@ -3,8 +3,8 @@
 
 ![image1](https://github.com/user-attachments/assets/920b4154-4d03-4d99-b757-a406c1edfa2f)
 
-![image1](https://github.com/user-attachments/assets/e93d8925-7975-4307-955d-8ab4fe4aa7f2)
-![Banner](image1.jpeg)
+
+
 Authors:   
  - [Calvince Kaunda](https://github.com/CalvinceKaunda)   
  - [Samuel Marimbi](https://github.com/S-Marimbi)  
